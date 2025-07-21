@@ -1,0 +1,24 @@
+.container-fluid{
+    padding: 0 !important;
+}
+
+#about{
+    height: 85vh;
+    background-color: #1abc9c !important;
+}
+
+h2{
+    font-size: 2.5rem ;
+}
+
+
+
+.div-about{
+     height: 4px;
+    width: 80px;
+    background-color: white !important;
+}
+
+.about-row{
+    width: 91%;
+}
