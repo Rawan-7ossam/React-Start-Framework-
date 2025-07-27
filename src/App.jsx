@@ -5,7 +5,7 @@ import StartFramework from './Components/StartFramework/StartFramework'
 import About from './Components/About/About'
 import Portfolio from './Components/Portfolio/Portfolio'
 import Contact from './Components/Contact/Contact'
-import NotFound from './Components/Notfound/NotFound'
+import NotFound from './Components/NotFound/NotFound'
 
 
 
